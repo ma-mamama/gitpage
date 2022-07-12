@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitpage/static/css/main.e6c13ad2.css",
+    "main.js": "/gitpage/static/js/main.406bd7de.js",
+    "static/js/787.b3e4e704.chunk.js": "/gitpage/static/js/787.b3e4e704.chunk.js",
+    "index.html": "/gitpage/index.html",
+    "main.e6c13ad2.css.map": "/gitpage/static/css/main.e6c13ad2.css.map",
+    "main.406bd7de.js.map": "/gitpage/static/js/main.406bd7de.js.map",
+    "787.b3e4e704.chunk.js.map": "/gitpage/static/js/787.b3e4e704.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.406bd7de.js"
+  ]
+}
